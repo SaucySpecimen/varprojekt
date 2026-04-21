@@ -12,3 +12,5 @@ Länkade in bootstrap i vårat html dokument
 Påsklov
 ## Dag 6 14-04-26
 Hjälpte till de andra i min grupp eftersom resten av mina uppgifter kan inte göras än
+## Dag 7 21-04-26
+Började på produktsidan av våran hemsida. Startade bygga upp själva strukturen.
