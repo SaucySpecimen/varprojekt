@@ -14,3 +14,5 @@ Påsklov
 Hjälpte till de andra i min grupp eftersom resten av mina uppgifter kan inte göras än
 ## Dag 7 21-04-26
 Började på produktsidan av våran hemsida. Startade bygga upp själva strukturen.
+## Dag 8 19-05-26 (var sjuk de andra dagarna imellan)
+Lade till navbar och blev klar med strukturen.
